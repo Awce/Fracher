@@ -1,0 +1,112 @@
+@font-face {
+	font-family: 'fracher';
+	src:url('../fonts/fracher/fracher.eot?u4xdpi');
+	src:url('../fonts/fracher/fracher.eot?#iefixu4xdpi') format('embedded-opentype'),
+		url('../fonts/fracher/fracher.woff?u4xdpi') format('woff'),
+		url('../fonts/fracher/fracher.ttf?u4xdpi') format('truetype'),
+		url('../fonts/fracher/fracher.svg?u4xdpi#fracher') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon1-"], [class*=" icon1-"] {
+	font-family: 'fracher';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon1-home2:before {
+	content: "\e901";
+}
+
+.icon1-book:before {
+	content: "\e91f";
+}
+
+.icon1-map:before {
+	content: "\e94b";
+}
+
+.icon1-bubble:before {
+	content: "\e96b";
+}
+
+.icon1-link:before {
+	content: "\e9cb";
+}
+
+.icon1-star-full:before {
+	content: "\e9d9";
+}
+
+.icon1-checkbox-checked:before {
+	content: "\ea52";
+}
+
+.icon1-radio-checked2:before {
+	content: "\ea55";
+}
+
+.icon1-google-plus:before {
+	content: "\ea88";
+}
+
+.icon1-youtube3:before {
+	content: "\ea99";
+}
+
+.icon1-file-pdf:before {
+	content: "\eada";
+}
+
+.icon1-file-excel:before {
+	content: "\eadd";
+}
+
+.icon1-max:before {
+	content: "\e600";
+}
+
+.icon1-menu:before {
+	content: "\e601";
+}
+
+.icon1-add:before {
+	content: "\e602";
+}
+
+.icon1-heart:before {
+	content: "\e603";
+}
+
+.icon1-user:before {
+	content: "\e604";
+}
+
+.icon1-back:before {
+	content: "\e605";
+}
+
+.icon1-send:before {
+	content: "\e606";
+}
+
+.icon1-mail:before {
+	content: "\e607";
+}
+
+.icon1-twitter:before {
+	content: "\e608";
+}
+
+.icon1-facebook:before {
+	content: "\e609";
+}
